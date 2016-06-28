@@ -1,0 +1,8 @@
+= AppStream data for Debian Jessie =
+
+The metadata and icons found in jessie-data/ are generated using experimental code
+which may land in dak (the Debian Archive Kit) after the Jessie release.
+You can find the code which generates this data at:
+ https://github.com/abhi11/tanglu-dak
+Or later in the dak repository at:
+ https://ftp-master.debian.org/#dak
