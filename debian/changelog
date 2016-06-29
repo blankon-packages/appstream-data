@@ -1,3 +1,9 @@
+appstream-data (2016.06.29) tambora; urgency=medium
+
+  * Relocated install icons 
+
+ -- dotovr <dotovr@preko>  Wed, 29 Jun 2016 10:03:20 +0700
+
 appstream-data (2016.06.28) tambora; urgency=medium
 
   * Initial release for tambora
