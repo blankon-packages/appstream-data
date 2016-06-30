@@ -1,1 +1,4 @@
-tambora-data/icons/128x128/* usr/share/app-info/icons/tambora-main/128x128/
+tambora-data/icons/main-hidpi/* usr/share/app-info/icons/blankon-tambora-main-hidpi/
+tambora-data/icons/extras-hidpi/* usr/share/app-info/icons/blankon-tambora-extras-hidpi/
+tambora-data/icons/restricted-hidpi/* usr/share/app-info/icons/blankon-tambora-restricted-hidpi/
+tambora-data/icons/extras-restricted-hidpi/* usr/share/app-info/icons/blankon-tambora-extras-restricted-hidpi/

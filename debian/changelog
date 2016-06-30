@@ -1,3 +1,9 @@
+appstream-data (2016.06.30) tambora; urgency=medium
+
+  * Add another components
+
+ -- dotovr <dotovr@preko>  Thu, 30 Jun 2016 13:32:39 +0700
+
 appstream-data (2016.06.29) tambora; urgency=medium
 
   * Relocated install icons 

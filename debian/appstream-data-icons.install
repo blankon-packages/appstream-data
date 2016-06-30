@@ -1,1 +1,4 @@
-tambora-data/icons/64x64/* usr/share/app-info/icons/blankon-tambora-main/
+tambora-data/icons/main/* usr/share/app-info/icons/blankon-tambora-main/
+tambora-data/icons/extras/* usr/share/app-info/icons/blankon-tambora-extras/
+tambora-data/icons/restricted/* usr/share/app-info/icons/blankon-tambora-restricted/
+tambora-data/icons/extras-restricted/* usr/share/app-info/icons/blankon-tambora-extras-restricted/
