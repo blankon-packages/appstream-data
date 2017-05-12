@@ -1,3 +1,10 @@
+appstream-data (2016.06.30+1) uluwatu; urgency=medium
+
+  * Upload to uluwatu.
+  * 
+
+ -- Hanhan Husna <matcherapy@gmail.com>  Fri, 12 May 2017 18:12:09 +0700
+
 appstream-data (2016.06.30) tambora; urgency=medium
 
   * Add another components
