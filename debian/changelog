@@ -1,3 +1,9 @@
+appstream-data (2018-03-24) uluwatu; urgency=medium
+
+  * Rename dir to proper pattern
+
+ -- Anto Samalona <ansamsoftdev@gmail.com>  Sun, 25 Mar 2018 14:00:03 +0800
+
 appstream-data (2018-03-23) uluwatu; urgency=medium
 
   * Uluwatu appstream-data
